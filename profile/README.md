@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sogang-erg/.github/main/profile/assets/kermit.gif" height="220">
+  <img src="https://raw.githubusercontent.com/sogang-erg/.github/main/profile/assets/kermit-2.gif" height="220">
+</p>
+
 <h1 align="center">Experiential Reality Group</h1>
 
 <p align="center">
