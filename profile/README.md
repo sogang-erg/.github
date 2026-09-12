@@ -5,15 +5,18 @@
 
 <h1 align="center">Experiential Reality Group</h1>
 
-<p align="center">
-  Extended Reality (XR) / Human-Centered AI / Game Technology<br>
+<h3 align="center">
   Dept. of Art & Technology, Sogang University
+</h3>
+
+<p align="center">
+  Extended Reality (XR) / Human-Centered AI / Game Technology
 </p>
 
 <p align="center">
-  <a href="https://qoocrab-studio.vercel.app/">Website</a> |
+  <a href="https://qoocrab-studio.vercel.app/">ERG Website</a> |
   <a href="https://qoocrab-studio.vercel.app/#publications">Publications</a> |
-  <a href="https://scholar.google.co.kr/citations?user=DwyB8JcAAAAJ">Google Scholar</a> |
+  <a href="https://creative.sogang.ac.kr/">Art & Technology</a> |
   <a href="mailto:qoocrab@sogang.ac.kr">Contact</a>
 </p>
 
@@ -21,7 +24,7 @@
 
 ## About
 
-ERG studies how immersive experiences work, and how to make them work better. From empirical studies of XR presence and perception to real-time 3D and neural rendering, we use games as our research platform to build experiences that feel vivid, comfortable, and shared.
+ERG is a research group in the Dept. of Art & Technology at Sogang University, Korea's first department. We study how immersive experiences work, and how to make them work better. From empirical studies of XR presence and perception to real-time 3D and neural rendering, we use games as our research platform to build experiences that feel vivid, comfortable, and shared.
 
 ## Research
 
@@ -45,10 +48,10 @@ Games as laboratory and muse, powered by real-time 3D and neural rendering.
 
 ## Join Us
 
-We are recruiting **Ph.D. students**, **Master's students**, and **undergraduate interns**.
+We are recruiting **Ph.D. students**, **Master's students**, and **undergraduate interns** from Art & Technology and beyond.
 
 If you are interested, email [qoocrab@sogang.ac.kr](mailto:qoocrab@sogang.ac.kr) with your CV and the research topics you care about.
 
 <p align="center">
-  <sub>Led by Prof. Hayeon Kim, Sogang University</sub>
+  <sub>Led by Prof. Hayeon Kim, Dept. of Art & Technology, Sogang University</sub>
 </p>
